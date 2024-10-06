@@ -1,0 +1,13 @@
+name: Auto Pull
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: ssh & git pull
+        run: sshpass -p ${{secrets.ECS_PASSWORD}} ssh -o StrictHostKeyChecking=no root@${{secrets.ECS_IP}} "cd /root/MY-SITE; git pull --force;"
