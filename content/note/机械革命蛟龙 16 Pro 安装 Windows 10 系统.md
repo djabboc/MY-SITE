@@ -1,5 +1,5 @@
 ---
-title: "机械革命蛟龙 16 Pro 安装 Windows 10 系统.md"
+title: "机械革命蛟龙 16 Pro 安装 Windows 10 系统"
 date: 2024-11-23T00:30:44+08:00
 draft: true
 ---
@@ -20,7 +20,9 @@ draft: true
 
 1. 准备一个 Windows 10 22H2 系统 U 盘
 
-2. 开机狂按 F2 进入 Bios 安装系统，调整启动方式 UEFI
+2. 开机狂按 F2 进入 Bios 安装系统，调整启动方式 EFI
+   
+   ![](../../images/蛟龙16P-Bios-EFI.png)
 
 3. 机械革命官网下载所有 16P 驱动压缩包
    
