@@ -8,3 +8,6 @@
 !layouts/
 !themes/
 !static/
+*.png
+*.jpg
+*.jpeg
