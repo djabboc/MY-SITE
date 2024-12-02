@@ -1,12 +1,16 @@
 baseURL: "http://117.72.90.90/"
+
+# 服务端口
 port: 8000
+
+# 显示草稿页面
 buildDrafts: true
 
 server:
   bind: "0.0.0.0"
 
 languageCode: "zh-cn"
-title: "我的网站"
+title: "博客"
 theme: "hugo-xmin"
 googleAnalytics: ""
 disqusShortname: ""

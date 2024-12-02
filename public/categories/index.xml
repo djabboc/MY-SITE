@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on A minimal Hugo website</title>
+    <title>Categories on 博客</title>
     <link>http://117.72.90.90/categories/</link>
-    <description>Recent content in Categories on A minimal Hugo website</description>
+    <description>Recent content in Categories on 博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://117.72.90.90/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Dec 2024 01:45:50 +0800</lastBuildDate><atom:link href="http://117.72.90.90/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example</title>
-      <link>http://117.72.90.90/categories/example/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <title>生活</title>
+      <link>http://117.72.90.90/categories/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sun, 01 Dec 2024 01:45:50 +0800</pubDate>
       
-      <guid>http://117.72.90.90/categories/example/</guid>
+      <guid>http://117.72.90.90/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>http://117.72.90.90/categories/hugo/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>工作</title>
+      <link>http://117.72.90.90/categories/%E5%B7%A5%E4%BD%9C/</link>
+      <pubDate>Sat, 12 Oct 2024 09:50:50 +0800</pubDate>
       
-      <guid>http://117.72.90.90/categories/hugo/</guid>
+      <guid>http://117.72.90.90/categories/%E5%B7%A5%E4%BD%9C/</guid>
       <description></description>
     </item>
     

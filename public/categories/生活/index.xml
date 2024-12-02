@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 博客</title>
-    <link>http://117.72.90.90/post/</link>
-    <description>Recent content in Posts on 博客</description>
+    <title>生活 on 博客</title>
+    <link>http://117.72.90.90/categories/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sun, 01 Dec 2024 01:45:50 +0800</lastBuildDate><atom:link href="http://117.72.90.90/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 01:45:50 +0800</lastBuildDate><atom:link href="http://117.72.90.90/categories/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DOTA2 · 倾天之战第四幕 · 荆棘之巢第一层</title>
       <link>http://117.72.90.90/post/2024/12/01/dota2-%E5%80%BE%E5%A4%A9%E4%B9%8B%E6%88%98%E7%AC%AC%E5%9B%9B%E5%B9%95-%E8%8D%86%E6%A3%98%E4%B9%8B%E5%B7%A2%E7%AC%AC%E4%B8%80%E5%B1%82/</link>
@@ -53,23 +53,6 @@
       <description>想在 Nike 官网买两双鞋子，但是不知道日本鞋码怎么选择，所以看了官网鞋码表
 结果差点买错&amp;hellip; 我的脚长 28CM，理论应该对应 30 码，还有最后有人提醒
 最后还是看了小红书总结，买了 JP27.5</description>
-    </item>
-    
-    <item>
-      <title>出差 · 哈尔滨</title>
-      <link>http://117.72.90.90/post/2024/10/12/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</link>
-      <pubDate>Sat, 12 Oct 2024 09:50:50 +0800</pubDate>
-      
-      <guid>http://117.72.90.90/post/2024/10/12/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</guid>
-      <description>松花江边 美食   铁锅炖大鹅/排骨/胖头鱼
-  手工水饺
-  东北菜
-  东北烧烤
-  湘菜 四方桌
-  正宗桂林米线 :)
-  正宗安徽板面 :)
-  西旗涮羊肉
-  洗浴 朋友见面 </description>
     </item>
     
   </channel>

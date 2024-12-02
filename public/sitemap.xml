@@ -2,56 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://117.72.90.90/note/2017/06/14/another-note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://117.72.90.90/categories/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T01:45:50+08:00</lastmod>
   </url><url>
-    <loc>http://117.72.90.90/categories/example/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/note/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/tags/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/tags/tutorial/</loc>
-    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/note/2017/06/13/a-quick-note/</loc>
-    <lastmod>2017-06-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/post/2016/02/14/a-plain-markdown-post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/tags/blogdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/categories/hugo/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/tags/markdown/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/tags/mathjax/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://117.72.90.90/tags/pandoc/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>http://117.72.90.90/post/2024/12/01/dota2-%E5%80%BE%E5%A4%A9%E4%B9%8B%E6%88%98%E7%AC%AC%E5%9B%9B%E5%B9%95-%E8%8D%86%E6%A3%98%E4%B9%8B%E5%B7%A2%E7%AC%AC%E4%B8%80%E5%B1%82/</loc>
+    <lastmod>2024-12-01T01:45:50+08:00</lastmod>
   </url><url>
     <loc>http://117.72.90.90/post/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-12-01T01:45:50+08:00</lastmod>
   </url><url>
-    <loc>http://117.72.90.90/tags/rstudio/</loc>
-    <lastmod>2016-02-14T00:00:00+00:00</lastmod>
+    <loc>http://117.72.90.90/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2024-12-01T01:45:50+08:00</lastmod>
   </url><url>
-    <loc>http://117.72.90.90/post/2015/07/23/lorem-ipsum/</loc>
-    <lastmod>2015-07-23T00:00:00+00:00</lastmod>
+    <loc>http://117.72.90.90/</loc>
+    <lastmod>2024-12-01T01:45:50+08:00</lastmod>
+  </url><url>
+    <loc>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</loc>
+    <lastmod>2024-11-30T22:36:00+08:00</lastmod>
+  </url><url>
+    <loc>http://117.72.90.90/note/</loc>
+    <lastmod>2024-11-30T22:36:00+08:00</lastmod>
+  </url><url>
+    <loc>http://117.72.90.90/note/2024/11/23/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%E8%9B%9F%E9%BE%99-16-pro-%E5%AE%89%E8%A3%85-windows-10-%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2024-11-23T00:30:44+08:00</lastmod>
+  </url><url>
+    <loc>http://117.72.90.90/post/2024/11/22/%E9%BB%91%E4%BA%94-%E6%97%A5%E6%9C%AC%E6%B5%B7%E6%B7%98/</loc>
+    <lastmod>2024-11-22T09:50:50+08:00</lastmod>
+  </url><url>
+    <loc>http://117.72.90.90/post/2024/10/12/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</loc>
+    <lastmod>2024-10-12T09:50:50+08:00</lastmod>
+  </url><url>
+    <loc>http://117.72.90.90/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <lastmod>2024-10-12T09:50:50+08:00</lastmod>
+  </url><url>
+    <loc>http://117.72.90.90/tags/</loc>
   </url><url>
     <loc>http://117.72.90.90/about/</loc>
   </url>

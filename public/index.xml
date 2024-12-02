@@ -1,59 +1,125 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on A minimal Hugo website</title>
+    <title>首页 on 博客</title>
     <link>http://117.72.90.90/</link>
-    <description>Recent content in Home on A minimal Hugo website</description>
+    <description>Recent content in 首页 on 博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 14 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="http://117.72.90.90/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 01 Dec 2024 01:45:50 +0800</lastBuildDate><atom:link href="http://117.72.90.90/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Another Note on A blogdown Tutorial</title>
-      <link>http://117.72.90.90/note/2017/06/14/another-note/</link>
-      <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
+      <title>DOTA2 · 倾天之战第四幕 · 荆棘之巢第一层</title>
+      <link>http://117.72.90.90/post/2024/12/01/dota2-%E5%80%BE%E5%A4%A9%E4%B9%8B%E6%88%98%E7%AC%AC%E5%9B%9B%E5%B9%95-%E8%8D%86%E6%A3%98%E4%B9%8B%E5%B7%A2%E7%AC%AC%E4%B8%80%E5%B1%82/</link>
+      <pubDate>Sun, 01 Dec 2024 01:45:50 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/2017/06/14/another-note/</guid>
-      <description>I just discovered an awesome tutorial on blogdown written by Alison. I have to admit this is the best blogdown tutorial I have seen so far.</description>
+      <guid>http://117.72.90.90/post/2024/12/01/dota2-%E5%80%BE%E5%A4%A9%E4%B9%8B%E6%88%98%E7%AC%AC%E5%9B%9B%E5%B9%95-%E8%8D%86%E6%A3%98%E4%B9%8B%E5%B7%A2%E7%AC%AC%E4%B8%80%E5%B1%82/</guid>
+      <description>第一次玩类似吸血鬼幸存者类的游戏，第一关至少用了 8 小时
+先说一下为什么这种游戏能够占据我的这么多的时间：
+  本身好玩，画面比较刺激，杀怪特效做得不错
+  英雄/技能/物品合成玩法组合很多
+  具有很多运气成分
+你能不能在一个合适的时间拿到你想要的技能/物品组合/A 杖技能加强
+你能不能在最需要的时候，敲碎罐子开出一个关键的奶酪
+还和小 Boss 刷新类型有关，如果近战流派先刷到灰烬的话，就不太好打了
+  每一局的时间成本不少，12 分钟才能通关，一般卡关都是卡在 10 分钟左右
+  本身操作不太合理
+很多时间为了向前赶路打小 BOSS/开箱子/吃奶酪，一直不去回头捡宝石，导致等级一直不会提升
+  信息量不对称
+一开始我不知道每个阿哈利姆神杖技能加强方向&amp;hellip;
+一开始我甚至不知道物品能够合成&amp;hellip;
+  近战击退肉装流派攻略：
+  装备方面：
+优先选择红单刀、血精石，击退效果是这个流派的核心
+其他装备可以选择生存装，比如龙心刃甲路线
+剩下一两个格子用来升级暴击刀
+  技能方面：
+优先选择滚滚戳、斧王转，保证无限击退小怪
+然后就是神灭斩和赏金标的完美组合，对于范围内强力怪的定点清除
+这样一套下来，既能保证自己的生存能力，一般小怪根本无法近身，又能够尽快干掉强力怪
+  A 杖：
+优先强化滚滚戳、神灭斩
+前者能够彻底让小怪无法靠近
+后者可以重复打击强力怪，对于后期打大 BOSS 非常有效
+一般一局至少能够吃到两个 A 杖，由于 A 杖非常关键，所以推荐至少留出一个重选机会
+  </description>
     </item>
     
     <item>
-      <title>A Quick Note on Two Beautiful Websites</title>
-      <link>http://117.72.90.90/note/2017/06/13/a-quick-note/</link>
-      <pubDate>Tue, 13 Jun 2017 00:00:00 +0000</pubDate>
+      <title>HC32F460 移植 RT-Thread Nano</title>
+      <link>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</link>
+      <pubDate>Sat, 30 Nov 2024 22:36:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/2017/06/13/a-quick-note/</guid>
-      <description>To me, the two most impressive websites based on blogdown are:
- Rob J Hyndman&amp;rsquo;s personal website. Live Free or Dichotomize by Lucy and Nick et al.  I&amp;rsquo;m sure there will be more.</description>
+      <guid>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</guid>
+      <description>https://github.com/djabboc/hc32f460jeta-port-rt-thread-nano/blob/main/README.md</description>
     </item>
     
     <item>
-      <title>A Plain Markdown Post</title>
-      <link>http://117.72.90.90/post/2016/02/14/a-plain-markdown-post/</link>
-      <pubDate>Sun, 14 Feb 2016 00:00:00 +0000</pubDate>
+      <title>机械革命蛟龙 16 Pro 安装 Windows 10 系统</title>
+      <link>http://117.72.90.90/note/2024/11/23/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%E8%9B%9F%E9%BE%99-16-pro-%E5%AE%89%E8%A3%85-windows-10-%E7%B3%BB%E7%BB%9F/</link>
+      <pubDate>Sat, 23 Nov 2024 00:30:44 +0800</pubDate>
       
-      <guid>http://117.72.90.90/post/2016/02/14/a-plain-markdown-post/</guid>
-      <description>This sample post is mainly for blogdown users. If you do not use blogdown, you can skip the first section.
-1. Markdown or R Markdown This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Goldmark by default, and an R Markdown document is compiled by rmarkdown and Pandoc.</description>
+      <guid>http://117.72.90.90/note/2024/11/23/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%E8%9B%9F%E9%BE%99-16-pro-%E5%AE%89%E8%A3%85-windows-10-%E7%B3%BB%E7%BB%9F/</guid>
+      <description>机械革命蛟龙 16 Pro 预装 Windows 11，如果想要重新安装 Win10 系统也可以
+但是重装系统之后，驱动基本都掉光了
+  声卡驱动掉了，扬声器声音特别小
+  显卡驱动掉了，导致屏幕没有高刷
+  无线 WIFI 网卡驱动掉了，导致无法搜索/连接 WIFI
+  还好算它仁慈，给我留了一个有线网卡驱动，否则就麻烦了&amp;hellip;
+具体步骤：
+  准备一个 Windows 10 22H2 系统 U 盘
+  开机狂按 F2 进入 Bios 安装系统，调整启动方式 EFI
+  机械革命官网下载所有 16P 驱动压缩包
+解压之后，用管理员身份运行压缩包里面的 install bat 脚本
+依次安装主板、显卡、声卡、网卡、无线网卡等驱动
+注意无线网卡驱动不要装成 Intel 版本
+最后安装 AMD R7/R9 Bios 驱动，此后将会自动重启
+虽然官网说是只有 Win11 对应驱动，但是 Win10 22H2 版本亲测也能使用
+  </description>
     </item>
     
     <item>
-      <title>Lorem Ipsum</title>
-      <link>http://117.72.90.90/post/2015/07/23/lorem-ipsum/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
+      <title>黑五 · 日本海淘</title>
+      <link>http://117.72.90.90/post/2024/11/22/%E9%BB%91%E4%BA%94-%E6%97%A5%E6%9C%AC%E6%B5%B7%E6%B7%98/</link>
+      <pubDate>Fri, 22 Nov 2024 09:50:50 +0800</pubDate>
       
-      <guid>http://117.72.90.90/post/2015/07/23/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
+      <guid>http://117.72.90.90/post/2024/11/22/%E9%BB%91%E4%BA%94-%E6%97%A5%E6%9C%AC%E6%B5%B7%E6%B7%98/</guid>
+      <description>想在 Nike 官网买两双鞋子，但是不知道日本鞋码怎么选择，所以看了官网鞋码表
+结果差点买错&amp;hellip; 我的脚长 28CM，理论应该对应 30 码，还有最后有人提醒
+最后还是看了小红书总结，买了 JP27.5</description>
     </item>
     
     <item>
-      <title>About Hugo XMin</title>
+      <title>出差 · 哈尔滨</title>
+      <link>http://117.72.90.90/post/2024/10/12/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</link>
+      <pubDate>Sat, 12 Oct 2024 09:50:50 +0800</pubDate>
+      
+      <guid>http://117.72.90.90/post/2024/10/12/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</guid>
+      <description>松花江边 美食   铁锅炖大鹅/排骨/胖头鱼
+  手工水饺
+  东北菜
+  东北烧烤
+  湘菜 四方桌
+  正宗桂林米线 :)
+  正宗安徽板面 :)
+  西旗涮羊肉
+  洗浴 朋友见面 </description>
+    </item>
+    
+    <item>
+      <title>关于</title>
       <link>http://117.72.90.90/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://117.72.90.90/about/</guid>
-      <description>XMin is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the blogdown book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal.</description>
+      <description>建站日记   2024-09-11 购买京东云轻量云主机，运行 Ubuntu 22.04 系统
+  2024-09-16 借助 Github Pages 重定向到个人服务器，实现二级域名分发
+  2024-10-02 基于 Hugo 搭建，主题采用 xMin
+  2024-10-03 修改主题部分样式
+  2024-10-07 通过 Github 仓库备份内容，并且通过 Actions 自动拉取更改到服务器
+  2024-11-25 增加图片显示功能
+  2024-11-29 通过 libavif-bin 自动压缩上传图片
+  2024-11-29 Nginx 端口转发
+  </description>
     </item>
     
   </channel>

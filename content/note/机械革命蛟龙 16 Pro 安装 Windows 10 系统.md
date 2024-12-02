@@ -2,6 +2,8 @@
 title: "机械革命蛟龙 16 Pro 安装 Windows 10 系统"
 date: 2024-11-23T00:30:44+08:00
 draft: true
+categories: 
+- 生活
 ---
 
 机械革命蛟龙 16 Pro 预装 Windows 11，如果想要重新安装 Win10 系统也可以
