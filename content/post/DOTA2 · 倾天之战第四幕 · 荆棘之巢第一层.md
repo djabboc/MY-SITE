@@ -6,7 +6,7 @@ categories:
 - 生活
 ---
 
-![](/images/DOTA2-荆棘之巢第一层.png.avif)
+![](/images/DOTA2-荆棘之巢第一层.png)
 
 第一次玩类似吸血鬼幸存者类的游戏，第一关至少用了 8 小时
 

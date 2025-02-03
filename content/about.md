@@ -5,11 +5,11 @@ author: Huang
 
 ## 建站日记
 
-- 2024-09-11 购买京东云轻量云主机，运行 Ubuntu 22.04 系统
+- 2024-09-11 京东云轻量云主机，运行 Ubuntu 22.04 系统
 
-- 2024-09-16 借助 Github Pages 重定向到个人服务器，实现二级域名分发
+- 2024-09-16 通过 Github Pages 重定向到个人服务器，实现二级域名分发
 
-- 2024-10-02 基于 Hugo 搭建，主题采用 [xMin](https://github.com/yihui/hugo-xmin)
+- 2024-10-02 基于 Hugo 搭建博客，主题采用 [xMin](https://github.com/yihui/hugo-xmin)
 
 - 2024-10-03 修改主题部分样式
 
@@ -20,3 +20,5 @@ author: Huang
 - 2024-11-29 通过 libavif-bin 自动压缩上传图片
 
 - 2024-11-29 Nginx 端口转发
+
+- 2025-01-25 修改主题

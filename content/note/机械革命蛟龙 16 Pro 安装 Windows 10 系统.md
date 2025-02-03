@@ -24,7 +24,7 @@ categories:
 
 2. 开机狂按 F2 进入 Bios 安装系统，调整启动方式 EFI
    
-   ![](/images/蛟龙16P-Bios-EFI.png.avif)
+   ![](/images/蛟龙16P-Bios-EFI.png)
 
 3. 机械革命官网下载所有 16P 驱动压缩包
    
