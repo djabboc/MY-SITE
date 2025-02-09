@@ -6,7 +6,55 @@
     <description>Recent content in Notes on 博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 30 Nov 2024 22:36:00 +0800</lastBuildDate><atom:link href="http://117.72.90.90/note/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Feb 2025 13:00:00 +0800</lastBuildDate><atom:link href="http://117.72.90.90/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mqtt.fx 问题总结</title>
+      <link>http://117.72.90.90/note/2025/02/07/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Fri, 07 Feb 2025 13:00:00 +0800</pubDate>
+      
+      <guid>http://117.72.90.90/note/2025/02/07/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
+      <description>Mqtt.fx v5 v5 似乎无法支持 mqtt3.1 协议
+实际使用过程发现，无法连接别人阿里云服务器上的 MQTT Broker（47.98.xxx.xxx）
+ 不知道服务器用的哪个 Broker，但应该不是 mosquitto
+亲测 v5 可以兼容 mosquitto
+ 报错如下：
+CONNECT failed as CONNACK contained an Error Code: UNSUPPORTED PROTOCOL VERSION.
+解决办法：切换版本 v1.7
+Mqtt.fx v1.7 v1.7 安装之后，运行 exe 报错：
+Unable to invoke public void de.jensd.mqttfx.cdi.FXMLView.init() on de.jensd.mqttfx.ui.main.MainPane@34cd17b0
+问题定位：
+  v5 可以正常打开，说明 JRE 没有问题（实际上 Mqtt.fx 无需安装 JRE）
+  别人电脑可以正常安装打开 v1.7，说明软件本身没有问题
+   网上没有找到相关资料，这个问题好像是我独有的
+所以猜测可能问题出在环境冲突，于是打算卸载 v5，重装 v1.7
+但是仍然存在相同报错
+ 猜测可能卸载不是很彻底</description>
+    </item>
+    
+    <item>
+      <title>MOXA 7110 串口服务器</title>
+      <link>http://117.72.90.90/note/2025/02/01/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Sat, 01 Feb 2025 22:00:00 +0800</pubDate>
+      
+      <guid>http://117.72.90.90/note/2025/02/01/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description>前言 咸鱼买的玩具
+产品实在太老，网上没有相关资料
+串口通信 232 公头设备
+默认波特率 9600-8-None-1
+TCP 通信 Socket
+远程抄表 有时间再弄</description>
+    </item>
+    
+    <item>
+      <title>TEST</title>
+      <link>http://117.72.90.90/note/2025/01/24/test/</link>
+      <pubDate>Fri, 24 Jan 2025 22:00:00 +0800</pubDate>
+      
+      <guid>http://117.72.90.90/note/2025/01/24/test/</guid>
+      <description>图片     数学公式 $$\cfrac{1}{2}$$
+代码块 int main(void) { return 0; }  </description>
+    </item>
+    
     <item>
       <title>HC32F460 移植 RT-Thread Nano</title>
       <link>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</link>
@@ -31,13 +79,12 @@
 具体步骤：
   准备一个 Windows 10 22H2 系统 U 盘
   开机狂按 F2 进入 Bios 安装系统，调整启动方式 EFI
-  机械革命官网下载所有 16P 驱动压缩包
+      机械革命官网下载所有 16P 驱动压缩包
 解压之后，用管理员身份运行压缩包里面的 install bat 脚本
 依次安装主板、显卡、声卡、网卡、无线网卡等驱动
 注意无线网卡驱动不要装成 Intel 版本
 最后安装 AMD R7/R9 Bios 驱动，此后将会自动重启
-虽然官网说是只有 Win11 对应驱动，但是 Win10 22H2 版本亲测也能使用
-  </description>
+虽然官网说是只有 Win11 对应驱动，但是 Win10 22H2 版本亲测也能使用</description>
     </item>
     
   </channel>
