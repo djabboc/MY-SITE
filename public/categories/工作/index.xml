@@ -9,10 +9,10 @@
     <lastBuildDate>Sun, 09 Feb 2025 00:10:00 +0800</lastBuildDate><atom:link href="http://117.72.90.90/categories/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>腰痛</title>
-      <link>http://117.72.90.90/post/%E8%85%B0%E7%97%9B/</link>
+      <link>http://117.72.90.90/post/2025/02/09/%E8%85%B0%E7%97%9B/</link>
       <pubDate>Sun, 09 Feb 2025 00:10:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/post/%E8%85%B0%E7%97%9B/</guid>
+      <guid>http://117.72.90.90/post/2025/02/09/%E8%85%B0%E7%97%9B/</guid>
       <description>腰痛大约两年历史（2023~2024）
 一开始只是早上起床痛，活动开来就好了
 从一个月前到现在，是随时随地都会痛了
@@ -25,10 +25,10 @@
     
     <item>
       <title>Mqtt.fx 问题总结</title>
-      <link>http://117.72.90.90/note/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</link>
+      <link>http://117.72.90.90/note/2025/02/07/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</link>
       <pubDate>Fri, 07 Feb 2025 13:00:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
+      <guid>http://117.72.90.90/note/2025/02/07/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
       <description>Mqtt.fx v5 v5 似乎无法支持 mqtt3.1 协议
 实际使用过程发现，无法连接别人阿里云服务器上的 MQTT Broker（47.98.xxx.xxx）
  不知道服务器用的哪个 Broker，但应该不是 mosquitto
@@ -49,10 +49,10 @@ Unable to invoke public void de.jensd.mqttfx.cdi.FXMLView.init() on de.jensd.mqt
     
     <item>
       <title>MOXA 7110 串口服务器</title>
-      <link>http://117.72.90.90/note/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <link>http://117.72.90.90/note/2025/02/01/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
       <pubDate>Sat, 01 Feb 2025 22:00:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <guid>http://117.72.90.90/note/2025/02/01/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
       <description>前言 咸鱼买的玩具
 产品实在太老，网上没有相关资料
 串口通信 232 公头设备
@@ -63,10 +63,10 @@ TCP 通信 Socket
     
     <item>
       <title>团建 · 宜春</title>
-      <link>http://117.72.90.90/post/%E5%9B%A2%E5%BB%BA-%E5%AE%9C%E6%98%A5/</link>
+      <link>http://117.72.90.90/post/2024/12/21/%E5%9B%A2%E5%BB%BA-%E5%AE%9C%E6%98%A5/</link>
       <pubDate>Sat, 21 Dec 2024 08:30:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/post/%E5%9B%A2%E5%BB%BA-%E5%AE%9C%E6%98%A5/</guid>
+      <guid>http://117.72.90.90/post/2024/12/21/%E5%9B%A2%E5%BB%BA-%E5%AE%9C%E6%98%A5/</guid>
       <description>马戏团   魔术杂技
   灯光布景
   高空表演
@@ -76,19 +76,19 @@ TCP 通信 Socket
     
     <item>
       <title>HC32F460 移植 RT-Thread Nano</title>
-      <link>http://117.72.90.90/note/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</link>
+      <link>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</link>
       <pubDate>Sat, 30 Nov 2024 22:36:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</guid>
+      <guid>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</guid>
       <description>https://github.com/djabboc/hc32f460jeta-port-rt-thread-nano/blob/main/README.md</description>
     </item>
     
     <item>
       <title>出差 · 哈尔滨</title>
-      <link>http://117.72.90.90/post/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</link>
+      <link>http://117.72.90.90/post/2024/10/12/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</link>
       <pubDate>Sat, 12 Oct 2024 09:50:50 +0800</pubDate>
       
-      <guid>http://117.72.90.90/post/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</guid>
+      <guid>http://117.72.90.90/post/2024/10/12/%E5%87%BA%E5%B7%AE-%E5%93%88%E5%B0%94%E6%BB%A8/</guid>
       <description>松花江边     美食   铁锅炖大鹅/排骨/胖头鱼
   手工水饺
   东北菜

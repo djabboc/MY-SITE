@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 07 Feb 2025 13:00:00 +0800</lastBuildDate><atom:link href="http://117.72.90.90/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mqtt.fx 问题总结</title>
-      <link>http://117.72.90.90/note/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</link>
+      <link>http://117.72.90.90/note/2025/02/07/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</link>
       <pubDate>Fri, 07 Feb 2025 13:00:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
+      <guid>http://117.72.90.90/note/2025/02/07/mqtt.fx-%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
       <description>Mqtt.fx v5 v5 似乎无法支持 mqtt3.1 协议
 实际使用过程发现，无法连接别人阿里云服务器上的 MQTT Broker（47.98.xxx.xxx）
  不知道服务器用的哪个 Broker，但应该不是 mosquitto
@@ -33,10 +33,10 @@ Unable to invoke public void de.jensd.mqttfx.cdi.FXMLView.init() on de.jensd.mqt
     
     <item>
       <title>MOXA 7110 串口服务器</title>
-      <link>http://117.72.90.90/note/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <link>http://117.72.90.90/note/2025/02/01/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
       <pubDate>Sat, 01 Feb 2025 22:00:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <guid>http://117.72.90.90/note/2025/02/01/moxa-7110-%E4%B8%B2%E5%8F%A3%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
       <description>前言 咸鱼买的玩具
 产品实在太老，网上没有相关资料
 串口通信 232 公头设备
@@ -47,29 +47,29 @@ TCP 通信 Socket
     
     <item>
       <title>TEST</title>
-      <link>http://117.72.90.90/note/%E6%B5%8B%E8%AF%95-note/</link>
+      <link>http://117.72.90.90/note/2025/01/24/test/</link>
       <pubDate>Fri, 24 Jan 2025 22:00:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/%E6%B5%8B%E8%AF%95-note/</guid>
+      <guid>http://117.72.90.90/note/2025/01/24/test/</guid>
       <description>图片     数学公式 $$\cfrac{1}{2}$$
 代码块 int main(void) { return 0; }  </description>
     </item>
     
     <item>
       <title>HC32F460 移植 RT-Thread Nano</title>
-      <link>http://117.72.90.90/note/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</link>
+      <link>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</link>
       <pubDate>Sat, 30 Nov 2024 22:36:00 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</guid>
+      <guid>http://117.72.90.90/note/2024/11/30/hc32f460-%E7%A7%BB%E6%A4%8D-rt-thread-nano/</guid>
       <description>https://github.com/djabboc/hc32f460jeta-port-rt-thread-nano/blob/main/README.md</description>
     </item>
     
     <item>
       <title>机械革命蛟龙 16 Pro 安装 Windows 10 系统</title>
-      <link>http://117.72.90.90/note/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%E8%9B%9F%E9%BE%99-16-pro-%E5%AE%89%E8%A3%85-windows-10-%E7%B3%BB%E7%BB%9F/</link>
+      <link>http://117.72.90.90/note/2024/11/23/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%E8%9B%9F%E9%BE%99-16-pro-%E5%AE%89%E8%A3%85-windows-10-%E7%B3%BB%E7%BB%9F/</link>
       <pubDate>Sat, 23 Nov 2024 00:30:44 +0800</pubDate>
       
-      <guid>http://117.72.90.90/note/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%E8%9B%9F%E9%BE%99-16-pro-%E5%AE%89%E8%A3%85-windows-10-%E7%B3%BB%E7%BB%9F/</guid>
+      <guid>http://117.72.90.90/note/2024/11/23/%E6%9C%BA%E6%A2%B0%E9%9D%A9%E5%91%BD%E8%9B%9F%E9%BE%99-16-pro-%E5%AE%89%E8%A3%85-windows-10-%E7%B3%BB%E7%BB%9F/</guid>
       <description>机械革命蛟龙 16 Pro 预装 Windows 11，如果想要重新安装 Win10 系统也可以
 但是重装系统之后，驱动基本都掉光了
   声卡驱动掉了，扬声器声音特别小
