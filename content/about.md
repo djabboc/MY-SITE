@@ -3,6 +3,14 @@ title: 关于
 author: Huang
 ---
 
+时间：<span id="showTime">1</span>
+
+周数：No.<span id="showWeek">2</span>
+
+进度：<span id="showRemain">3</span>
+
+<script src="/js/index_custom.js"></script>
+
 ## 建站日记
 
 - 2024-09-11 京东云轻量云主机，运行 Ubuntu 22.04 系统
